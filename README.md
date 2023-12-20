@@ -1,4 +1,3 @@
-# AlzheimerDetect
 # Detección de casos preclínicos de la enfermedad de Alzheimer en base a imágenes por resonancia magnética
 
 A pesar de que en la actualidad el ser humano disponga de múltiples herramientas con las que poder anticipar la enfermedad de Alzheimer, a día de hoy sigue habiendo técnicas desconocidas con las que poder predecir dicha muerte neuronal.
