@@ -1,4 +1,3 @@
-# AlzheimerDetect
 # Detección de casos preclínicos de la enfermedad de Alzheimer en base a imágenes por resonancia magnética
 
 Este repositorio contiene el código y la documentación asociada a mi Trabajo de Fin de Grado (TFG) sobre la detección temprana de la enfermedad de Alzheimer mediante análisis de resonancias magnéticas (RM).
